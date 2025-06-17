@@ -1,3 +1,5 @@
+# Custom Module for Console Log formats,
+# like Colors, Loading Indicators, etc
 import sys
 import time
 import os

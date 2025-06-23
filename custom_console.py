@@ -25,6 +25,7 @@ def simple_spinner(duration=3):
         i += 1
     sys.stdout.write(f'{COLOR_YELLOW}\rLoading complete!') # Overwrite with final message and a newline
     sys.stdout.flush()
+    print(f'{RESET_COLOR}')
 
 # Clear console log
 def clear_console():

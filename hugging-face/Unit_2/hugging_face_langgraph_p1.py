@@ -5,7 +5,6 @@ from langgraph.graph import StateGraph, START, END
 from langchain_core.messages import HumanMessage
 from langchain_google_genai import ChatGoogleGenerativeAI
 
-
 class EmailState(TypedDict):
     # The email being processed
     email: Dict[str, Any]  # Contains subject, sender, body, etc.

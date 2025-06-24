@@ -24,4 +24,7 @@ index = VectorStoreIndex.from_vector_store(vector_store, embed_model=embed_model
 
 llm = GoogleGenAI(model_name="gemini-1.5-flash")
 query_engine = index.as_query_engine(llm=llm)
-tool = QueryEngineTool.from_defaults(query_engine, name="some useful name", description="some useful description")
+tool = QueryEngineTool.from_defaults(
+    query_engine, name="some useful name", 
+    description="some useful description"
+)

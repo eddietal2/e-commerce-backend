@@ -13,4 +13,4 @@ This shows my Journey doing the HuggingFace, AI Agent Course and Certification:
 - [LangGraph](https://langchain-ai.github.io/langgraph/)
 
 ## Certifications
-![Fundamentals of AI Agents - Hugging Face](certifications\fundamentals.png)
+![Fundamentals of AI Agents - Hugging Face](fundamentals.png)

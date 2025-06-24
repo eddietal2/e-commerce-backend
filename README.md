@@ -11,3 +11,6 @@ This shows my Journey doing the HuggingFace, AI Agent Course and Certification:
 - [Async Python](https://docs.llamaindex.ai/en/stable/getting_started/async_python/)
 - [LlamaIndex](https://www.llamaindex.ai/)
 - [LangGraph](https://langchain-ai.github.io/langgraph/)
+
+## Certifications
+- ![Fundamentals of AI Agents - Hugging Face](certifications\fundamentals.png)

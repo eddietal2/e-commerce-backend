@@ -1,2 +1,3 @@
 .env
-/hugging-face/Final_Assignment_Template
+/hugging-face/__pycache__/
+/.venv
